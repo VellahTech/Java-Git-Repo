@@ -1,4 +1,4 @@
-var firstnumber =10;
+var firstnumber =20;
 var secondtnumber =20;
 
 var sum = firstnumber + secondtnumber;
