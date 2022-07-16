@@ -1,0 +1,9 @@
+body {
+     background-image: url(image.png);
+     background-color: aqua;
+     background-repeat: no-repeat;
+     background-attachment: scroll;
+     background-position: center;
+     background-size: auto;
+     background-origin: border-box;
+}

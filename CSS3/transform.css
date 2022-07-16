@@ -1,0 +1,9 @@
+div {
+    border: 2px solid red;
+    transform: translate(100px, 200px);
+    /* transform: rotate(30deg);
+    transform: scale(2,2);*/
+    transform: skew(20deg, 30deg);
+
+
+}   
